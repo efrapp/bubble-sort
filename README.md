@@ -1,9 +1,9 @@
-# Sorting and Iteration Project
-Create our implementation of the Bubble Sort algorithm and some Enumerable methods in the Ruby language.
+# Bubble Sort Project
+Create our implementation of the Bubble Sort algorithm.
 
 ## Concepts Applied Here
 
-The idea was to understand how these works internally to get a better understanding on how to use them.
+The idea was to understand how this algorithm works to get a better understanding on how the sorting works in programming.
 
 ## Contributors
 
