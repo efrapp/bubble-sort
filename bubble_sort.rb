@@ -3,9 +3,7 @@ def bubble_sort array
     for j in 0..array.length
         for i in 0...array.length-1
             if array[i] > array[i+1]
-                temp = array[i]
-                array[i] = array[i+1]
-                array[i+1] = temp    
+                array[i], array[i + 1] = array[i + 1], array[i]
             end
         end        
     end
@@ -13,4 +11,4 @@ def bubble_sort array
 end
 
 result = bubble_sort(array)
-print result
+p result
